@@ -21,8 +21,7 @@ Node.js
 Express.js
 CORS middleware
 🚀 How to Run Locally
-1️⃣ Clone Repository
-git clone https://github.com/your-username/fintechflow.git
+1️⃣ Repositorygit https://github.com/your-username/fintechflow.git
 cd fintechflow
 2️⃣ Run Backend
 cd backend
