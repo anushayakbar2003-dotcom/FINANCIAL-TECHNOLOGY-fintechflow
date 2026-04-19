@@ -40,9 +40,9 @@ npm run dev
 Frontend runs on:
 
 http://localhost:5173
-🌐 Deployment Links (Replace later)
-Frontend (Vercel): https://your-frontend-url.vercel.app
-Backend (Render): https://your-backend-url.onrender.com
+🌐 Deployment Links 
+Frontend (Vercel): https://financial-technology-fintechflow.vercel.app/
+Backend (Render): https://financial-technology-fintechflow-b4.vercel.app/
 📡 API Endpoints
 Wallet
 Method	Endpoint	Description
@@ -72,9 +72,9 @@ Response:
 {
   "emi": "2350.45"
 }
-👤 Author
 
-Name: Your Name
-Roll Number: Your Roll Number
+
+Name: Syeda Anusha Akbar
+FAST University
 Course: BS Fintech – Web Programming
 
